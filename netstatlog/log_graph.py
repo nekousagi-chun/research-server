@@ -2,9 +2,14 @@
 
 import csv
 import copy
-
+import sys
 
 def main():
+
+    args = sys.argv
+    dir_name = args[1]
+
+
     STATES = [
         'ESTABLISHED',
         'TIME_WAIT',
@@ -19,7 +24,7 @@ def main():
         'CLOSED',
     ]
     #書き込み
-    with open('output.csv', 'w') as csvfile:
+    with open('{}/output.csv'.format(dir_name), 'w') as csvfile:
 	#STATESをコピーして行く
         fieldnames = copy.copy(STATES)
         fieldnames.insert(0, 'sec')
@@ -28,7 +33,7 @@ def main():
 
         for i in range(1, 241):
             d = {}
-            filename = 'sec{}.log'.format(i)
+            filename = '{}/sec{}.log'.format(dir_name, i)
             with open(filename, 'r') as f:
                 lines = f.readlines()
             
