@@ -1,0 +1,1168 @@
+tcp        0     39 10.1.200.100:80         10.1.200.10:41682       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39848       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41084       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41680       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40848       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41854       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42138       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41696       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40172       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41464       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41784       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41152       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40558       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41320       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40170       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41120       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40876       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41958       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41618       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40978       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40948       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41952       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40580       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40430       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40168       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40068       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39934       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42018       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:39936       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40754       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42038       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41428       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41638       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41432       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40996       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41240       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39904       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41480       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40006       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41582       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41984       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:39938       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42024       ESTABLISHED -               
+tcp      732      0 10.1.200.100:80         10.1.200.10:42020       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41020       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41162       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40736       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40020       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41216       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41208       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40448       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:41888       FIN_WAIT2   -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41206       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41094       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39862       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:43494       ESTABLISHED -               
+tcp      732      0 10.1.200.100:80         10.1.200.10:41962       ESTABLISHED -               
+tcp      732      0 10.1.200.100:80         10.1.200.10:41926       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40442       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39906       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41214       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41242       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40218       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40746       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40238       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40414       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40566       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40296       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40570       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41790       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39898       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39996       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40450       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40674       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41314       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41186       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42014       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41414       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40412       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41316       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40584       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40856       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41282       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39954       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41276       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39944       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40002       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:43496       SYN_RECV    -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40330       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41212       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41820       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41844       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41266       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41110       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40790       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40312       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41390       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40046       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41168       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39856       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:43854       SYN_RECV    -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41324       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39860       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42102       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41374       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40438       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42012       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40592       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41936       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40130       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41218       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:41872       FIN_WAIT2   -               
+tcp      732      0 10.1.200.100:80         10.1.200.10:41974       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41754       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41524       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40444       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41658       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41730       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40882       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41818       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41506       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40894       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41728       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41514       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42126       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41070       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40712       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41996       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41482       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41580       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41422       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42028       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41052       ESTABLISHED 1349/nginx: worker 
+tcp      221      0 10.1.200.100:80         10.1.200.10:43856       CLOSE_WAIT  -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40806       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39948       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39930       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41348       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42112       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40956       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39910       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42096       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40782       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40164       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40094       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40362       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41596       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41174       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41700       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40192       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42082       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40716       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41352       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41910       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41424       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40750       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40866       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41248       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41470       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40678       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39842       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41362       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41288       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39840       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40598       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40052       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41824       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41552       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41722       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42004       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41302       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42120       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41626       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41678       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41202       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41060       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40144       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39928       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40574       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41532       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40794       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40612       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40898       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39956       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40964       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41380       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40880       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40260       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41118       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40370       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39868       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40820       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40854       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41766       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42052       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41044       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39994       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40638       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40136       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40316       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40128       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40890       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40420       ESTABLISHED 1349/nginx: worker 
+tcp      220      0 10.1.200.100:80         10.1.200.10:43866       ESTABLISHED -               
+tcp      732      0 10.1.200.100:80         10.1.200.10:41938       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41368       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40466       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41272       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40456       ESTABLISHED 1349/nginx: worker 
+tcp      221      0 10.1.200.100:80         10.1.200.10:43844       CLOSE_WAIT  -               
+tcp      732      0 10.1.200.100:80         10.1.200.10:42046       ESTABLISHED -               
+tcp      732      0 10.1.200.100:80         10.1.200.10:42142       ESTABLISHED -               
+tcp        0      0 10.1.200.100:80         10.1.200.10:43864       SYN_RECV    -               
+tcp      732      0 10.1.200.100:80         10.1.200.10:41902       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41620       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39894       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40900       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41036       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41154       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40740       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41934       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40642       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41478       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40188       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40422       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42092       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40452       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39998       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39966       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41592       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41724       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41786       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39958       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39988       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41312       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40930       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40664       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41024       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40498       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41220       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41492       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:41878       FIN_WAIT2   -               
+tcp      732      0 10.1.200.100:80         10.1.200.10:42056       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41802       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40720       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40368       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41554       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40184       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41750       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40548       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:43860       SYN_RECV    -               
+tcp      732      0 10.1.200.100:80         10.1.200.10:41964       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41540       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41474       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39878       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40990       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41378       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41758       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40300       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41138       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41704       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40032       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40602       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41002       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41058       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40810       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41064       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40590       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39920       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41160       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40314       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40512       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41184       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40620       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41376       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41776       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41404       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39918       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41940       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40072       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41326       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41562       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41280       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40686       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40276       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40190       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40700       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40508       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40798       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40582       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40380       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40062       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41990       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:39870       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40756       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40084       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39900       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41726       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40966       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40308       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41400       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41598       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40704       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39866       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40974       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40578       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41318       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41134       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40388       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41500       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40542       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42064       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41148       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41274       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39844       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40600       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42128       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41752       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39990       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41228       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41748       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41476       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40088       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:41890       FIN_WAIT2   -               
+tcp        0      0 10.1.200.100:80         10.1.200.10:43490       SYN_RECV    -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40776       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41732       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40194       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41808       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41358       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41334       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41028       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41536       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41104       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40166       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40506       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42074       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41458       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40914       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41080       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41286       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41296       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40350       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40108       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40552       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41300       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41968       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40780       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41136       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41294       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42026       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41308       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41130       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40614       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41922       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41236       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40934       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40670       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41018       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39888       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40494       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41842       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40116       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40634       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41222       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41520       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41782       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40564       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41812       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40334       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41644       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42084       ESTABLISHED -               
+tcp      732      0 10.1.200.100:80         10.1.200.10:42086       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40530       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41828       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41986       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41654       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40042       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41694       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41896       ESTABLISHED -               
+tcp      732      0 10.1.200.100:80         10.1.200.10:42114       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40176       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40432       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41746       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41672       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41502       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41490       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40298       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40726       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42072       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40232       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41908       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40816       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42000       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41566       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41402       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41646       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40608       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41066       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41640       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41852       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:43852       SYN_RECV    -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40436       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39976       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41258       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40586       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39972       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41338       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40302       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41108       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:43846       SYN_RECV    -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41594       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41544       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41772       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40484       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40064       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41924       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40982       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40520       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41610       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40256       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40174       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40962       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40050       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41734       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40970       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40640       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40702       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40102       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39946       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:42144       SYN_RECV    -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41484       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:42140       SYN_RECV    -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41488       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41096       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41406       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40126       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41714       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41666       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41156       ESTABLISHED 1349/nginx: worker 
+tcp      221      0 10.1.200.100:80         10.1.200.10:43842       CLOSE_WAIT  -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41238       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40980       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40318       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41584       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39838       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41244       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40768       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41954       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40538       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40918       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41660       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41330       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40888       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40324       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41522       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41516       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40254       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41022       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40510       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41526       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41778       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41332       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42066       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40744       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41674       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40680       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41466       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40246       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42068       ESTABLISHED -               
+tcp        0      0 10.1.200.100:80         10.1.200.10:41882       FIN_WAIT2   -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40058       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42070       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40236       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40842       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41578       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40662       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41452       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41032       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39912       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40030       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41142       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42088       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41150       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41468       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41386       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41204       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40844       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40628       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41356       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40472       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:41880       FIN_WAIT2   -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40596       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41172       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40364       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42116       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40048       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41446       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40516       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40268       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40554       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41164       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40010       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40200       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40344       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41702       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41076       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41708       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40904       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42048       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:39896       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41146       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40112       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41512       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41576       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41016       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40692       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39982       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42010       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41774       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40434       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39960       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40022       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41624       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41040       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41608       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40536       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41906       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40938       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41642       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41800       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41372       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40424       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41738       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40182       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40824       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39886       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41616       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39892       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41262       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40668       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40340       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40622       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41904       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40544       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39890       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40986       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41408       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41650       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39852       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39924       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41508       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40332       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40462       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41600       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40486       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41670       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40016       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40480       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42008       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40076       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40106       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41232       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40234       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40958       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41322       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40060       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41034       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41662       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41048       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42016       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41690       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41056       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41188       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41438       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41636       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40730       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41224       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41900       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40932       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40666       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41290       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41124       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41762       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41360       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40244       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40928       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41158       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39854       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40828       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40924       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41456       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41102       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41994       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40772       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41010       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40492       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39970       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41804       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40326       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40186       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41342       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41622       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41046       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40684       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40610       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42078       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40954       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40406       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:41886       FIN_WAIT2   -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40044       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40210       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39922       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40976       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41350       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40320       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41442       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40784       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41398       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41340       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40636       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40216       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41918       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40100       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41072       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40682       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40572       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40690       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40556       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41960       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41462       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41628       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41192       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40122       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41268       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41254       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41384       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41830       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40826       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40892       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40096       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40242       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41718       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40916       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40992       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41196       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40038       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39978       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39858       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40104       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42040       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41550       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41100       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41998       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41838       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39876       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41430       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40774       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41418       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40410       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40818       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41410       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40346       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40156       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40476       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40946       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40390       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41454       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40496       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42058       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41166       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41082       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41770       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41652       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40212       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40618       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41676       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40204       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40158       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40404       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41742       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41042       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40594       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40418       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40858       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41140       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41344       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40426       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40874       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40178       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40118       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41394       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40968       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42062       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40026       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41914       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41180       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41814       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40372       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41764       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41736       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40800       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39992       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39942       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40650       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41518       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40000       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40110       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40860       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40080       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41114       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41970       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40518       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41614       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40910       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41178       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41834       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41588       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40994       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41270       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40134       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40446       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41972       ESTABLISHED -               
+tcp      732      0 10.1.200.100:80         10.1.200.10:42034       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40292       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41822       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40240       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40560       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40464       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41710       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40266       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41420       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40478       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41004       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41090       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40342       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40630       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40814       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41392       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40196       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40788       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40762       ESTABLISHED 1349/nginx: worker 
+tcp      221      0 10.1.200.100:80         10.1.200.10:43858       CLOSE_WAIT  -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40886       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40148       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41298       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40428       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40092       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41000       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41436       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40284       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41668       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41976       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40850       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41074       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41836       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40926       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39984       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42080       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41346       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40708       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40474       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40098       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39932       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40522       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41078       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41278       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40374       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41528       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40808       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41498       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40942       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40384       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39962       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40328       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41944       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41026       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:43488       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40056       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41434       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40078       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40352       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41416       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39974       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41396       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41354       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41570       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40514       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40526       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40258       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40802       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41006       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39872       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40004       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41760       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41858       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40812       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40504       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41382       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42042       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40748       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40054       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41656       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40230       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41606       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40998       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40852       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40066       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42030       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40132       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40278       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40322       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40142       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40248       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40764       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41850       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40470       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41634       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40500       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42118       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40960       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40988       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40632       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40722       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40912       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41210       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40356       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:41876       FIN_WAIT2   -               
+tcp      732      0 10.1.200.100:80         10.1.200.10:42100       ESTABLISHED -               
+tcp      732      0 10.1.200.100:80         10.1.200.10:42108       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40944       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42002       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41796       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40822       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41054       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40936       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40348       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40224       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40394       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40154       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40540       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40282       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40180       ESTABLISHED 1349/nginx: worker 
+tcp      221      0 10.1.200.100:80         10.1.200.10:43848       CLOSE_WAIT  -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40920       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41370       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41546       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41568       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40534       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41898       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41426       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41630       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40272       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41794       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41980       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40760       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40550       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41920       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41116       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41448       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41894       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40906       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40864       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41686       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41284       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41982       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:39884       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41098       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41086       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40660       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42076       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:39986       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40226       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41720       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39850       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40656       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40392       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41792       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40952       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42106       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41336       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:41868       FIN_WAIT2   -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40036       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41798       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40162       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41832       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40830       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40714       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40786       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41706       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40908       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41112       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40150       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41292       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40220       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39882       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40524       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42110       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:39864       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41572       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41946       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40568       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41496       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40870       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42032       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41230       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41128       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40626       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40398       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40468       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40264       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40710       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40706       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41256       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41632       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41698       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40416       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40490       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40376       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41848       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41664       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41364       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40528       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39964       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40454       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40742       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41472       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40034       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40644       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42122       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41780       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41106       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39926       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40766       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42054       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41198       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41988       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41088       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42098       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40086       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41692       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40262       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40090       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40796       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41486       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41648       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41264       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39902       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40400       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40654       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40310       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41716       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41806       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40576       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41252       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40124       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41712       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41170       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40896       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:41870       FIN_WAIT2   -               
+tcp      732      0 10.1.200.100:80         10.1.200.10:42094       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:39846       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40836       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40940       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39908       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41008       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40752       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41978       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:39940       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41548       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40280       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41366       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40872       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41234       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41612       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40114       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40758       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40832       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40778       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40696       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41956       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41846       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40040       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41122       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40846       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41928       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40792       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41948       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40728       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40014       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39880       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41942       ESTABLISHED -               
+tcp      732      0 10.1.200.100:80         10.1.200.10:42044       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41556       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40366       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40694       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40718       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40604       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40502       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40252       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41966       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41328       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41176       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42060       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41126       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40306       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40140       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40770       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41684       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40646       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40724       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41304       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41688       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41756       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40588       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40732       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40074       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40360       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41602       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40028       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40378       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41190       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40616       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41992       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40008       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:41874       FIN_WAIT2   -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41840       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40214       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41560       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41412       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41194       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41182       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41950       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40902       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40562       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41916       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:39874       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40146       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:41884       FIN_WAIT2   -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40288       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41534       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41542       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40546       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41250       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:42146       SYN_RECV    -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40160       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41510       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41444       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40338       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:43862       SYN_RECV    -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40804       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41440       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40482       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39916       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40386       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41558       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40304       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41932       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40120       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41604       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41038       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40460       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40862       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40676       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40290       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42006       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41062       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39950       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41740       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40688       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42050       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40152       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41092       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40984       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41388       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40440       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:43492       SYN_RECV    -               
+tcp        0      0 10.1.200.100:80         10.1.200.10:42132       SYN_RECV    -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41574       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41030       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40972       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40354       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40024       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40012       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40018       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41530       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40532       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40382       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40734       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40138       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40698       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40358       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41200       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41816       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41144       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40738       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40652       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41504       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40950       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41826       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41788       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41590       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41564       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40294       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40672       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40648       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41744       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40884       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40208       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41050       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40624       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41862       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40840       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40488       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42022       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41132       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42090       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40838       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40868       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40082       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41538       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41226       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40250       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40458       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42036       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40270       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39914       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41260       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40922       ESTABLISHED 1349/nginx: worker 
+tcp        0      0 10.1.200.100:80         10.1.200.10:41892       FIN_WAIT2   1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40336       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41860       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39968       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40834       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40202       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41068       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40286       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39952       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:39980       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40658       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40402       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40878       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41768       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41856       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40206       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40070       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40606       ESTABLISHED 1349/nginx: worker 
+tcp      221      0 10.1.200.100:80         10.1.200.10:43850       CLOSE_WAIT  -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:40274       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41012       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41460       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41310       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41494       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40222       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:41930       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41014       ESTABLISHED 1349/nginx: worker 
+tcp      732      0 10.1.200.100:80         10.1.200.10:42104       ESTABLISHED -               
+tcp      732      0 10.1.200.100:80         10.1.200.10:41912       ESTABLISHED -               
+tcp        0     39 10.1.200.100:80         10.1.200.10:41586       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41306       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40198       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41810       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40396       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40408       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41246       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:40228       ESTABLISHED 1349/nginx: worker 
+tcp        0     39 10.1.200.100:80         10.1.200.10:41450       ESTABLISHED 1349/nginx: worker 
+tcp      221      0 10.1.200.100:80         10.1.200.10:43840       CLOSE_WAIT  -               
