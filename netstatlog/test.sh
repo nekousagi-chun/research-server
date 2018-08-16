@@ -18,18 +18,18 @@ do
 	while [ "$conections_per_seconds" -le "$max_per_seconds" ]
 	do
 		mkdir -p ${conections_per_seconds}_${number_of_conections}
-
+		echo "${conections_per_seconds}_${number_of_conections} maked"
 		for i in `seq 1 240`
 		do
 		#echo ${i} > ./sec${i}.log
 		netstat -an -p tcp | grep "10.1.200.10:" >> ./${conections_per_seconds}_${number_of_conections}/sec${i}.log
 		sleep 1
 		done
-		python /home/sumire/netstatlog/log_graph.py /home/sumire/netstatlog/${conections_per_seconds}_${number_of_conections}
+		#python ${PWD}/log_graph.py ${PWD}/${conections_per_seconds}_${number_of_conections}
 		conections_per_seconds=`expr $conections_per_seconds + 100`
 	done
 	conections_per_seconds=200
         number_of_conections=`expr $number_of_conections + 500`
 done
 
-
+find ./ -type d -exec python log_graph.py {} \;
